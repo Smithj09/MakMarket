@@ -1,0 +1,5 @@
+node_modules
+.env.local
+.git
+server.ts
+market.db
