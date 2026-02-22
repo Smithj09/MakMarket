@@ -1,0 +1,5 @@
+{
+  "name": "Adorly Market",
+  "description": "Pink-themed full-stack market with user auth, product management, cart, orders and admin dashboard.",
+  "requestFramePermissions": []
+}
